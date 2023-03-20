@@ -1,0 +1,41 @@
+{ 
+    "user":[
+    {
+        "id" :1,
+        "image":"https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492__480.jpg"
+    },
+    {    "id" :2,
+        "image":"https://thumbs.dreamstime.com/b/baby-rabbit-eating-grass-outdoor-sunny-summer-day-easter-bunny-garden-home-pet-kid-cute-pets-animals-family-131767995.jpg"
+    },
+    {     "id" :3,
+        "image":"https://cdn.pixabay.com/photo/2017/09/25/13/12/puppy-2785074__340.jpg"
+    },
+    {    "id" :4,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1u8CDG6zPK2Bx8Cpb6AvCBNfF6_-_RJxyvZY2vt6FKqIr3Rrf2iz_UxLqCTm1xLh9Hbg&usqp=CAU"
+    },
+    {    "id" :5,
+        "image":"https://static.toiimg.com/photo/msid-92750074/92750074.jpg"
+    },
+    {   "id" :6,
+        "image":"https://a-z-animals.com/media/2022/01/lamb-grazing-on-green-grass-meadow-picture-id665494268-1024x535.jpg"
+    },
+    {    "id" :7,
+        "image":"https://knysnaelephantpark.co.za/wp-content/uploads/2021/10/Banners-01-scaled.jpg"
+    },
+    {    "id" :8,
+        "image":"https://i.guim.co.uk/img/media/693da12bc9c240bbea26f571c2a65700d177df83/0_153_3600_2160/master/3600.jpg?width=1200&quality=85&auto=format&fit=max&s=67d77705314f5b363a87231dcd476666"
+    },
+    {    "id" :9,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNmcjs7pt7r8_ZxASM_t9MP_TuPT81wSVw7Q&usqp=CAU"
+    },
+    {   "id" :10,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPKXvs6xjfY0RQh4yoQKCzi5ZMTG8mp67w8s-5HpWyNw3Mi6On3i6X4x76j8Kr7E3xX_c&usqp=CAU"
+    },
+    {    "id" :11,
+        "image":"https://mcmscache.epapr.in/post_images/website_350/post_15665951/thumb.jpg"
+    },
+    {   "id" :12,
+        "image":"https://i.ytimg.com/vi/jH7e1fDcZnY/maxresdefault.jpg"
+    }
+]
+}
